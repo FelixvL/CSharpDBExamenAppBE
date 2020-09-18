@@ -1,0 +1,12 @@
+C:\Users\NextProgram\source\repos\DBExamenVragenAppDB\bin\Debug\DBExamenVragenAppDB.dll.config
+C:\Users\NextProgram\source\repos\DBExamenVragenAppDB\bin\Debug\DBExamenVragenAppDB.dll
+C:\Users\NextProgram\source\repos\DBExamenVragenAppDB\bin\Debug\DBExamenVragenAppDB.pdb
+C:\Users\NextProgram\source\repos\DBExamenVragenAppDB\bin\Debug\EntityFramework.dll
+C:\Users\NextProgram\source\repos\DBExamenVragenAppDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NextProgram\source\repos\DBExamenVragenAppDB\bin\Debug\EntityFramework.xml
+C:\Users\NextProgram\source\repos\DBExamenVragenAppDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\NextProgram\source\repos\DBExamenVragenAppDB\obj\Debug\DBExamenVragenAppDB.csprojAssemblyReference.cache
+C:\Users\NextProgram\source\repos\DBExamenVragenAppDB\obj\Debug\DBExamenVragenAppDB.csproj.CoreCompileInputs.cache
+C:\Users\NextProgram\source\repos\DBExamenVragenAppDB\obj\Debug\DBExamenVragenAppDB.csproj.CopyComplete
+C:\Users\NextProgram\source\repos\DBExamenVragenAppDB\obj\Debug\DBExamenVragenAppDB.dll
+C:\Users\NextProgram\source\repos\DBExamenVragenAppDB\obj\Debug\DBExamenVragenAppDB.pdb
