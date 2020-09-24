@@ -12,7 +12,14 @@ namespace DBExamenVragenAppDB
         [Key]
         public int ExamenId { get; set; }
         public string naam { get; set; }
-        public virtual List<Vraag> vragen { get; set; }
+
+        public Examen()
+        {
+            this.questions = new List<Vraag>();
+        }
+        public virtual List<Vraag> questions { get; set; }
+        public virtual Vraag vraag { get; set; }
+
 
     }
 }
