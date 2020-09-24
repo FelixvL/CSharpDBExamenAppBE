@@ -10,5 +10,7 @@ namespace DBExamenVragenAppDB
     public class DBExamContext : DbContext
     {
         public DbSet<Vraag> vragen { get; set; }
+        public DbSet<Examen> examens { get; set; }
+        
     }
 }

@@ -14,5 +14,6 @@ namespace DBExamenVragenAppDB
         public string VraagTekst { get; set; }
         public string Antwoord { get; set; }
         public string Toelichting { get; set; }
+        public string Zomaar { get; set; }
     }
 }
