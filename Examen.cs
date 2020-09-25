@@ -18,7 +18,6 @@ namespace DBExamenVragenAppDB
             this.questions = new List<Vraag>();
         }
         public virtual List<Vraag> questions { get; set; }
-      //  public virtual Vraag vraag { get; set; }
 
 
     }
