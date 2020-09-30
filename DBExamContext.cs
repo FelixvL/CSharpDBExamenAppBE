@@ -11,6 +11,8 @@ namespace DBExamenVragenAppDB
     {
         public DbSet<Vraag> vragen { get; set; }
         public DbSet<Examen> examens { get; set; }
+        public DbSet<Antwoord> antwoorden { get; set; }
+        public DbSet<Poging> pogingen { get; set; }
         
     }
 }
