@@ -51,8 +51,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Antwoord.cs" />
     <Compile Include="DBExamContext.cs" />
     <Compile Include="Examen.cs" />
+    <Compile Include="Poging.cs" />
     <Compile Include="Vraag.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
